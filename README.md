@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Vitor Pinho</h1>
-A design technologist from Rio de Janeiro, Brazil.
+<h1 align="left">Hey 👋</h1>
+My name is Vitor Pinho. A design technologist from Rio de Janeiro, Brazil.
 
 - 🔭  I’m currently working on [Ink @ Carta](https://ink.carta.com/)
 
