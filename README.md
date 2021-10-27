@@ -1,5 +1,6 @@
-<h1 align="left">Hey 👋</h1>
-My name is Vitor Pinho. A design technologist from Rio de Janeiro, Brazil.
+## Hi there, I'm Chris 👋
+
+## I'm a Design Technologist and UX/UI Mentor from Rio de Janeiro, Brazil!
 
 - 🔭  I’m currently working on [Ink @ Carta](https://ink.carta.com/)
 
