@@ -1,4 +1,4 @@
-## Hi there, I'm Chris 👋
+## Hi there, I'm Vitor 👋
 
 ## I'm a Design Technologist and UX/UI Mentor from Rio de Janeiro, Brazil!
 
