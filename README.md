@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on [Ink @ Carta](https://ink.carta.com/)
 
-- 🌱  I’m currently learning **React, Typescript and NextJS**
+- 🌱  I’m currently learning **Flutter**
 
 - 💬  Ask me about **Design Systems, DesignOps, UI and UX Design**
 
