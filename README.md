@@ -1,6 +1,7 @@
 
 
-## <img src="https://media.giphy.com/media/xT9Igzit39ROiRUAtq/giphy.gif" width="120px">
+<img src="https://media.giphy.com/media/xT9Igzit39ROiRUAtq/giphy.gif" width="420px">
+
 ## Hi there, I'm Vitor 👋
 I'm a Design Technologist and UX/UI Mentor from Rio de Janeiro, Brazil!
 
