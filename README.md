@@ -6,7 +6,7 @@
 I'm a Design Technologist and UX/UI Mentor from Rio de Janeiro, Brazil!
 
 <ul>
-  <li>🚀 ┇I’m currently working as a Freelancer </li>
+  <li>🚀 ┇I’m currently working as a Senior Product Designer @ Origin </li>
   <li>💙 ┇Design Systems, Figma and React</li>
   <li>🌱 ┇I’m currently learning Full-stack React development and Flutter</li>
   <li>💬 ┇Ask me about: UX Design, Figma and Design Systems</li>
