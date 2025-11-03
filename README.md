@@ -3,10 +3,10 @@
 <img src="https://media.giphy.com/media/xT9Igzit39ROiRUAtq/giphy.gif" width="420px">
 
 ## Hi there, I'm Vitor 👋
-I'm a Design Technologist and UX/UI Mentor from Rio de Janeiro, Brazil!
+I'm a Design Engineer and UX/UI Mentor from Rio de Janeiro, Brazil!
 
 <ul>
-  <li>🚀 ┇I’m currently working as a Design System Manager @ Origin </li>
+  <li>🚀 ┇I’m currently working as a Senior Design Engineer @ Teya </li>
   <li>💙 ┇Design Systems, Figma and React</li>
   <li>💬 ┇Ask me about: UX Design, Figma and Design Systems</li>
 </ul>
