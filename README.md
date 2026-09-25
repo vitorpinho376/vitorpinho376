@@ -6,7 +6,7 @@
 I'm a Design Engineer and UX/UI Mentor from Rio de Janeiro, Brazil!
 
 <ul>
-  <li>🚀 ┇I’m currently working as a Senior Design Engineer @ Teya </li>
+  <li>🚀 ┇I’m currently working as a Founding Design Engineer @ Humea </li>
   <li>💙 ┇Design Systems, Figma and React</li>
   <li>💬 ┇Ask me about: UX Design, Figma and Design Systems</li>
 </ul>
